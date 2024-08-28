@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>K.5f68a4da-d8d1-11ec-9b00-f859718a6f1e.jpg</filename>
+	<path>D:\AnacondaProjects\tez\Tensorflow\workspace\training\images\K.5f68a4da-d8d1-11ec-9b00-f859718a6f1e.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>K</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>256</xmin>
+			<ymin>30</ymin>
+			<xmax>365</xmax>
+			<ymax>320</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,3 @@
+[submodule "TurkishSignLanguageAlphabetDetectionTensorflowAPI/Tensorflow/models"]
+	path = TurkishSignLanguageAlphabetDetectionTensorflowAPI/Tensorflow/models
+	url = https://github.com/busedagidir/detection-of-Turkish-alphabet-by-sign-language.git

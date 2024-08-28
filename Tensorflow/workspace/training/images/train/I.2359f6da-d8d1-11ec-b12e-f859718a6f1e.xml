@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>I.2359f6da-d8d1-11ec-b12e-f859718a6f1e.jpg</filename>
+	<path>D:\AnacondaProjects\tez\Tensorflow\workspace\training\images\I.2359f6da-d8d1-11ec-b12e-f859718a6f1e.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>I</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>356</xmin>
+			<ymin>199</ymin>
+			<xmax>431</xmax>
+			<ymax>366</ymax>
+		</bndbox>
+	</object>
+</annotation>

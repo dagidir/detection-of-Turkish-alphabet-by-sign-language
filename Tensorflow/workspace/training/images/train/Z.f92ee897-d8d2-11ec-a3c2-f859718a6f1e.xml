@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Z.f92ee897-d8d2-11ec-a3c2-f859718a6f1e.jpg</filename>
+	<path>D:\AnacondaProjects\tez\Tensorflow\workspace\training\images\Z.f92ee897-d8d2-11ec-a3c2-f859718a6f1e.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Z</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>231</xmin>
+			<ymin>26</ymin>
+			<xmax>443</xmax>
+			<ymax>259</ymax>
+		</bndbox>
+	</object>
+</annotation>

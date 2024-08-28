@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>R.263e57c2-d8d2-11ec-bf56-f859718a6f1e.jpg</filename>
+	<path>D:\AnacondaProjects\tez\Tensorflow\workspace\training\images\R.263e57c2-d8d2-11ec-bf56-f859718a6f1e.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>R</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>171</xmin>
+			<ymin>239</ymin>
+			<xmax>322</xmax>
+			<ymax>407</ymax>
+		</bndbox>
+	</object>
+</annotation>

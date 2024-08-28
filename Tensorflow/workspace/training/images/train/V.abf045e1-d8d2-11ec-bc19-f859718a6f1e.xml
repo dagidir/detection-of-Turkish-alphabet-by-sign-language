@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>V.abf045e1-d8d2-11ec-bc19-f859718a6f1e.jpg</filename>
+	<path>D:\AnacondaProjects\tez\Tensorflow\workspace\training\images\V.abf045e1-d8d2-11ec-bc19-f859718a6f1e.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>V</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>308</xmin>
+			<ymin>144</ymin>
+			<xmax>448</xmax>
+			<ymax>294</ymax>
+		</bndbox>
+	</object>
+</annotation>

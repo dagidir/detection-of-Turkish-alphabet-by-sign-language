@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>N.d191d43b-d8d1-11ec-9c83-f859718a6f1e.jpg</filename>
+	<path>D:\AnacondaProjects\tez\Tensorflow\workspace\training\images\N.d191d43b-d8d1-11ec-9c83-f859718a6f1e.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>N</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>272</xmin>
+			<ymin>113</ymin>
+			<xmax>460</xmax>
+			<ymax>417</ymax>
+		</bndbox>
+	</object>
+</annotation>

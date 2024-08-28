@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>J.30e43a6f-d8d1-11ec-a6a4-f859718a6f1e.jpg</filename>
+	<path>D:\AnacondaProjects\tez\Tensorflow\workspace\training\images\J.30e43a6f-d8d1-11ec-a6a4-f859718a6f1e.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>J</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>185</xmin>
+			<ymin>159</ymin>
+			<xmax>415</xmax>
+			<ymax>383</ymax>
+		</bndbox>
+	</object>
+</annotation>
