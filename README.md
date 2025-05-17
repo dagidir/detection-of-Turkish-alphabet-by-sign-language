@@ -1,7 +1,7 @@
 # detection-of-Turkish-alphabet-by-sign-language
 
-<img width="595" alt="Screenshot 2025-05-17 at 20 54 08" src="https://github.com/user-attachments/assets/7da99c29-8bd0-4497-a504-226a7c93cb95" />
-A custom dataset for the Turkish Sign Language alphabet was developed
+![Image 1](<img width="595" alt="Screenshot 2025-05-17 at 20 54 08" src="https://github.com/user-attachments/assets/7da99c29-8bd0-4497-a504-226a7c93cb95" />)
+**Figure 1.** A custom dataset for the Turkish Sign Language alphabet was developed
 
 
 
