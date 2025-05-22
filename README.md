@@ -29,7 +29,7 @@ This project aims to:
 - Display the recognized letter on the screen in real time.
 
 - Enable sign language recognition using only a standard webcam and computer, with no additional hardware required.
-## Kullanılan Teknolojiler
+## Technologies & Tools
 
 **Programming Language:** Python
 
